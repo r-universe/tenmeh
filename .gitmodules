@@ -8,3 +8,6 @@
 [submodule "rewind"]
 	path = rewind
 	url = https://github.com/tenmeh/rewind
+[submodule "whence"]
+	path = whence
+	url = https://github.com/tenmeh/whence
